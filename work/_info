@@ -1,0 +1,94 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/WINDOWS/system32
+Efour_bit_comparator
+Z0 w1620420753
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dG:/6th Semester/HDL/Assign3/4_bit_Comparator
+Z4 8G:\6th Semester\HDL\Assign3\4_bit_Comparator\Four_bit_Comparator.vhd
+Z5 FG:\6th Semester\HDL\Assign3\4_bit_Comparator\Four_bit_Comparator.vhd
+l0
+L7 1
+VY]@QA^<gY_j3D4?3VQW`L3
+!s100 hOYBoieIYjHH`BIPIfn:Z3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1620420787
+!i10b 1
+Z8 !s108 1620420787.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|G:\6th Semester\HDL\Assign3\4_bit_Comparator\Four_bit_Comparator.vhd|
+Z10 !s107 G:\6th Semester\HDL\Assign3\4_bit_Comparator\Four_bit_Comparator.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+Z13 DEx4 work 19 four_bit_comparator 0 22 Y]@QA^<gY_j3D4?3VQW`L3
+!i122 0
+l19
+L17 21
+VA5[7;EE:>cR>@bSHazTTZ1
+!s100 VnYRmAL]0HniQCY5^SH];1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efour_bit_comparator_testbench
+Z14 w1620420776
+R1
+R2
+!i122 1
+R3
+Z15 8G:\6th Semester\HDL\Assign3\4_bit_Comparator\Four_bit_Comparator_Testbench.vhd
+Z16 FG:\6th Semester\HDL\Assign3\4_bit_Comparator\Four_bit_Comparator_Testbench.vhd
+l0
+L6 1
+VLC89bF=I0I>:^l=:40k<_1
+!s100 7_QkWUnEcH4`3cMKGT_J:1
+R6
+32
+Z17 !s110 1620420796
+!i10b 1
+Z18 !s108 1620420796.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|G:\6th Semester\HDL\Assign3\4_bit_Comparator\Four_bit_Comparator_Testbench.vhd|
+!s107 G:\6th Semester\HDL\Assign3\4_bit_Comparator\Four_bit_Comparator_Testbench.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R13
+R1
+R2
+DEx4 work 29 four_bit_comparator_testbench 0 22 LC89bF=I0I>:^l=:40k<_1
+!i122 1
+l14
+L9 28
+VbCiQ;kFHe`X1H2;kg;R591
+!s100 LBBSHSFi4ebYF4K`idFBI2
+R6
+32
+R17
+!i10b 1
+R18
+R19
+Z20 !s107 G:\6th Semester\HDL\Assign3\4_bit_Comparator\Four_bit_Comparator_Testbench.vhd|
+!i113 1
+R11
+R12

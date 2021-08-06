@@ -1,0 +1,19 @@
+# Compile of Four_bit_Comparator.vhd was successful.
+# Compile of Four_bit_Comparator_Testbench.vhd was successful.
+vsim work.four_bit_comparator_testbench
+# vsim work.four_bit_comparator_testbench 
+# Start time: 02:23:38 on May 08,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.four_bit_comparator_testbench(behavior)
+# Loading work.four_bit_comparator(behavioral)
+add wave -position end  sim:/four_bit_comparator_testbench/A
+add wave -position end  sim:/four_bit_comparator_testbench/B
+add wave -position end  sim:/four_bit_comparator_testbench/AltB
+add wave -position end  sim:/four_bit_comparator_testbench/AeqB
+add wave -position end  sim:/four_bit_comparator_testbench/AgtB
+run
+run
+# End time: 02:25:35 on May 08,2021, Elapsed time: 0:01:57
+# Errors: 0, Warnings: 7
